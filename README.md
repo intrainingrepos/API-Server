@@ -1,15 +1,10 @@
-# API-Server
-
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
-=================================================
-
 ## API-Server
 
 ### Author: Siobhan Niess
 
 ### Links and Resources
 
-* [github repo](https://github.com/niesssiobhan/Queue-Server)
+* [github repo](https://github.com/niesssiobhan/API-Server)
 * [sandbox repo](https://codesandbox.io/s/oj7l1w5r4y)
 * [url](https://oj7l1w5r4y.codesandbox.io/)
 
